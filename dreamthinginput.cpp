@@ -14,4 +14,5 @@ int main()
  cin << pricey dicey;
  int x = how much i like * pricey dicey
  cout <<"This is how much you gotta pay: "<< x << endl;
+  return 0;
 }
